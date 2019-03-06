@@ -1,0 +1,10 @@
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\bin\Debug\1630239 松田賢侑.exe.config
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\bin\Debug\1630239 松田賢侑.exe
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\bin\Debug\1630239 松田賢侑.pdb
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\1630239 松田賢侑.csprojAssemblyReference.cache
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\_1630239_松田賢侑.Form1.resources
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\_1630239_松田賢侑.Properties.Resources.resources
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\1630239 松田賢侑.csproj.GenerateResource.cache
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\1630239 松田賢侑.csproj.CoreCompileInputs.cache
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\1630239 松田賢侑.exe
+C:\Users\yuu05\source\repos\1630239 松田賢侑\1630239 松田賢侑\obj\Debug\1630239 松田賢侑.pdb
